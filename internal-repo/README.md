@@ -1,1 +1,1 @@
-Place your Spigot jar named spigot-1.0.jar here
+Place your Spigot jar named spigot.jar here
