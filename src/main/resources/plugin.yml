@@ -1,0 +1,5 @@
+name: EssentialsHub+
+version: 1.0
+authors: [AdityaTD]
+website: http://bukkit.org/threads/wip-essentialshub-a-plugin-for-hub-servers-need-devs.343825
+main: me.adityatd.essentialshub.Main
